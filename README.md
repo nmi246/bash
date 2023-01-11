@@ -1,1 +1,1 @@
-# bash
+# Bash scripts for various tasks
